@@ -1,0 +1,6 @@
+bin
+obj
+out
+.vscode
+notes.md
+.DS_Store
